@@ -1,4 +1,0 @@
-STA
-===
-
-Space Trajectory Analysis

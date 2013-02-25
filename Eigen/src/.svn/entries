@@ -1,58 +1,0 @@
-10
-
-dir
-657
-https://sta.svn.sourceforge.net/svnroot/sta/trunk/Eigen/src
-https://sta.svn.sourceforge.net/svnroot/sta
-
-
-
-2009-06-10T19:13:34.493799Z
-368
-cjlaurel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8a5f6040-573d-0410-9a95-84d5dbd770e1
-
-LU
-dir
-
-Cholesky
-dir
-
-QR
-dir
-
-Core
-dir
-
-Geometry
-dir
-
-LeastSquares
-dir
-
-SVD
-dir
-
-Sparse
-dir
-
-StdVector
-dir
-
-Array
-dir
-
