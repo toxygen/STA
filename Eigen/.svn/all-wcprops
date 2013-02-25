@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/sta/!svn/ver/549/trunk/Eigen
+END
+LU
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/sta/!svn/ver/310/trunk/Eigen/LU
+END
+QtAlignedMalloc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/sta/!svn/ver/310/trunk/Eigen/QtAlignedMalloc
+END
+Cholesky
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/sta/!svn/ver/310/trunk/Eigen/Cholesky
+END
+QR
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/sta/!svn/ver/310/trunk/Eigen/QR
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/sta/!svn/ver/549/trunk/Eigen/COPYING.LESSER
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/sta/!svn/ver/549/trunk/Eigen/COPYING
+END
+Core
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/sta/!svn/ver/368/trunk/Eigen/Core
+END
+Geometry
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/sta/!svn/ver/310/trunk/Eigen/Geometry
+END
+LeastSquares
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/sta/!svn/ver/368/trunk/Eigen/LeastSquares
+END
+SVD
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/sta/!svn/ver/310/trunk/Eigen/SVD
+END
+Sparse
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/sta/!svn/ver/310/trunk/Eigen/Sparse
+END
+StdVector
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/sta/!svn/ver/368/trunk/Eigen/StdVector
+END
+Array
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/sta/!svn/ver/310/trunk/Eigen/Array
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/sta/!svn/ver/1/trunk/macosx/Frameworks
+END
+liblualib.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/1/trunk/macosx/Frameworks/liblualib.dylib
+END
+liblua.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/1/trunk/macosx/Frameworks/liblua.dylib
+END
+libpng.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/1/trunk/macosx/Frameworks/libpng.dylib
+END

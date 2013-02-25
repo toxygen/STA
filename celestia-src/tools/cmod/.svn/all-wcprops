@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod
+END
+3dstocmod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod/3dstocmod.cpp
+END
+cmodtangent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod/cmodtangent.cpp
+END
+txt2cmod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod/txt2cmod.cpp
+END
+cmodfix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod/cmodfix.cpp
+END
+cmodsphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod/cmodsphere.cpp
+END
+cmodtools.mak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod/cmodtools.mak
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod/readme.txt
+END
+cmodtools-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod/cmodtools-readme.txt
+END
+xtocmod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/cmod/xtocmod.cpp
+END

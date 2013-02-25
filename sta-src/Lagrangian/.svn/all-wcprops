@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/sta/!svn/ver/633/trunk/sta-src/Lagrangian
+END
+lagrangian.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/633/trunk/sta-src/Lagrangian/lagrangian.ui
+END
+lagrangianAdvanced.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/505/trunk/sta-src/Lagrangian/lagrangianAdvanced.h
+END
+EarthMoonTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/520/trunk/sta-src/Lagrangian/EarthMoonTransfer.cpp
+END
+trajectoryprinting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/sta/!svn/ver/628/trunk/sta-src/Lagrangian/trajectoryprinting.cpp
+END
+lagrangian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/633/trunk/sta-src/Lagrangian/lagrangian.cpp
+END
+lagrangianAdvanced.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/633/trunk/sta-src/Lagrangian/lagrangianAdvanced.ui
+END
+EarthMoonTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/505/trunk/sta-src/Lagrangian/EarthMoonTransfer.h
+END
+trajectoryprinting.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/397/trunk/sta-src/Lagrangian/trajectoryprinting.h
+END
+EvaluateModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/580/trunk/sta-src/Lagrangian/EvaluateModel.cpp
+END
+halorbitcomputation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/628/trunk/sta-src/Lagrangian/halorbitcomputation.cpp
+END
+lagrangian.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/505/trunk/sta-src/Lagrangian/lagrangian.h
+END
+lagrangianAdvanced.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/sta/!svn/ver/522/trunk/sta-src/Lagrangian/lagrangianAdvanced.cpp
+END
+InizializeOptimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/517/trunk/sta-src/Lagrangian/InizializeOptimizer.cpp
+END
+halorbitcomputation.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/397/trunk/sta-src/Lagrangian/halorbitcomputation.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle
+END
+norad_in.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/norad_in.h
+END
+sdp8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/sdp8.cpp
+END
+get_el.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/get_el.cpp
+END
+sgp8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/sgp8.cpp
+END
+basics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/basics.cpp
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/common.cpp
+END
+norad.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/norad.h
+END
+sgp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/sgp.cpp
+END
+sdp4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/sdp4.cpp
+END
+deep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/deep.cpp
+END
+sgp4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/578/trunk/thirdparty/noradtle/sgp4.cpp
+END

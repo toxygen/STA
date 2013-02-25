@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/sta/!svn/ver/627/trunk/sta-src/Entry
+END
+reentrystructures.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/498/trunk/sta-src/Entry/reentrystructures.h
+END
+capsule.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/sta/!svn/ver/499/trunk/sta-src/Entry/capsule.h
+END
+BodyREM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/sta/!svn/ver/499/trunk/sta-src/Entry/BodyREM.cpp
+END
+BodyREM.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/sta/!svn/ver/499/trunk/sta-src/Entry/BodyREM.h
+END
+EntryTrajectory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/520/trunk/sta-src/Entry/EntryTrajectory.cpp
+END
+EntryTrajectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/499/trunk/sta-src/Entry/EntryTrajectory.h
+END
+reentry.ui
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/sta/!svn/ver/519/trunk/sta-src/Entry/reentry.ui
+END
+HeatRateClass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/530/trunk/sta-src/Entry/HeatRateClass.cpp
+END
+CelestialBody.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/530/trunk/sta-src/Entry/CelestialBody.cpp
+END
+reentry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/sta/!svn/ver/627/trunk/sta-src/Entry/reentry.cpp
+END
+HeatRateClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/499/trunk/sta-src/Entry/HeatRateClass.h
+END
+CelestialBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/499/trunk/sta-src/Entry/CelestialBody.h
+END
+reentrystructures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/498/trunk/sta-src/Entry/reentrystructures.cpp
+END
+capsule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/sta/!svn/ver/530/trunk/sta-src/Entry/capsule.cpp
+END
+reentry.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/sta/!svn/ver/520/trunk/sta-src/Entry/reentry.h
+END

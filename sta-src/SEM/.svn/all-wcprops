@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/sta/!svn/ver/640/trunk/sta-src/SEM
+END
+sem.ui
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/sta/!svn/ver/595/trunk/sta-src/SEM/sem.ui
+END
+semvehicle.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/sta/!svn/ver/595/trunk/sta-src/SEM/semvehicle.ui
+END
+sem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/sta/!svn/ver/592/trunk/sta-src/SEM/sem.cpp
+END
+semvehicle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/sta/!svn/ver/640/trunk/sta-src/SEM/semvehicle.cpp
+END
+Planets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/sta/!svn/ver/628/trunk/sta-src/SEM/Planets.cpp
+END
+preliminaryTables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/628/trunk/sta-src/SEM/preliminaryTables.cpp
+END
+sem.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/sta/!svn/ver/592/trunk/sta-src/SEM/sem.h
+END
+semvehicle.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/sta/!svn/ver/592/trunk/sta-src/SEM/semvehicle.h
+END
+Planets.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/sta/!svn/ver/592/trunk/sta-src/SEM/Planets.h
+END
+preliminaryTables.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/592/trunk/sta-src/SEM/preliminaryTables.h
+END

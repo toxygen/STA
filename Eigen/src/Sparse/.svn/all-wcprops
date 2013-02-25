@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse
+END
+CompressedStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/CompressedStorage.h
+END
+AmbiVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/AmbiVector.h
+END
+SparseUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseUtil.h
+END
+SparseCwiseBinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseCwiseBinaryOp.h
+END
+SparseTranspose.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseTranspose.h
+END
+SuperLUSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SuperLUSupport.h
+END
+SparseLU.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseLU.h
+END
+SparseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseProduct.h
+END
+SparseAssign.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseAssign.h
+END
+TriangularSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/TriangularSolver.h
+END
+SparseDot.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseDot.h
+END
+SparseFuzzy.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseFuzzy.h
+END
+SparseRedux.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseRedux.h
+END
+SparseCwiseUnaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseCwiseUnaryOp.h
+END
+SparseFlagged.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseFlagged.h
+END
+RandomSetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/RandomSetter.h
+END
+SparseBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseBlock.h
+END
+MappedSparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/MappedSparseMatrix.h
+END
+SparseLLT.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseLLT.h
+END
+TaucsSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/TaucsSupport.h
+END
+SparseLDLT.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseLDLT.h
+END
+SparseMatrixBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseMatrixBase.h
+END
+SparseVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseVector.h
+END
+CholmodSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/CholmodSupport.h
+END
+SparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseMatrix.h
+END
+UmfPackSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/UmfPackSupport.h
+END
+CoreIterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/CoreIterators.h
+END
+DynamicSparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/DynamicSparseMatrix.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/CMakeLists.txt
+END
+SparseCwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Sparse/SparseCwise.h
+END

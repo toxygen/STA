@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/scripts
+END
+makedocu.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/scripts/makedocu.py
+END
+valgr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/scripts/valgr.sh
+END
+qwtplot3d.supp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/scripts/qwtplot3d.supp
+END
+makedistro.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/scripts/makedistro.py
+END
+fixvc7.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/scripts/fixvc7.py
+END

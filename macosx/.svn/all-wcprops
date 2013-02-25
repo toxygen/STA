@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/sta/!svn/ver/446/trunk/macosx
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/sta/!svn/ver/1/trunk/macosx/pngconf.h
+END
+POSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/sta/!svn/ver/300/trunk/macosx/POSupport.h
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/sta/!svn/ver/446/trunk/macosx/Util.h
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/sta/!svn/ver/1/trunk/macosx/lauxlib.h
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/sta/!svn/ver/1/trunk/macosx/lua.h
+END
+lua.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/sta/!svn/ver/1/trunk/macosx/lua.hpp
+END
+qtcapture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/sta/!svn/ver/1/trunk/macosx/qtcapture.cpp
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/sta/!svn/ver/1/trunk/macosx/png.h
+END
+POSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/sta/!svn/ver/300/trunk/macosx/POSupport.cpp
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/sta/!svn/ver/1/trunk/macosx/luaconf.h
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/sta/!svn/ver/1/trunk/macosx/lualib.h
+END
+qtcapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/sta/!svn/ver/1/trunk/macosx/qtcapture.h
+END

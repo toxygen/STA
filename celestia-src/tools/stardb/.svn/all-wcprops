@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/stardb
+END
+startextdump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/stardb/startextdump.cpp
+END
+stardb.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/stardb/stardb.mak
+END
+buildstardb.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/stardb/buildstardb.pl
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/stardb/readme.txt
+END
+makestardb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/stardb/makestardb.cpp
+END
+makexindex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/stardb/makexindex.cpp
+END

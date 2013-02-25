@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/sta/!svn/ver/637/trunk/celestia-src/celestia
+END
+favorites.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/favorites.cpp
+END
+url.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/url.cpp
+END
+avicapture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/avicapture.cpp
+END
+oggtheoracapture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/oggtheoracapture.cpp
+END
+celx_celestia.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_celestia.cpp
+END
+configfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/configfile.cpp
+END
+celx_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_observer.h
+END
+celestiacore.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/637/trunk/celestia-src/celestia/celestiacore.h
+END
+moviecapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/moviecapture.h
+END
+celx_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_frame.h
+END
+imagecapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/imagecapture.h
+END
+eclipsefinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/eclipsefinder.cpp
+END
+celx_gl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_gl.cpp
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/wglext.h
+END
+celx_rotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_rotation.h
+END
+celx_position.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_position.cpp
+END
+celx_phase.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_phase.h
+END
+glutmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/glutmain.cpp
+END
+destination.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/destination.cpp
+END
+celx_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_object.cpp
+END
+wintime.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/wintime.h
+END
+celx_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_vector.h
+END
+celx_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_internal.h
+END
+scriptmenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/scriptmenu.h
+END
+celx.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx.h
+END
+celestiacore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/609/trunk/celestia-src/celestia/celestiacore.cpp
+END
+celx_observer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_observer.cpp
+END
+celx_frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_frame.cpp
+END
+imagecapture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/imagecapture.cpp
+END
+favorites.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/favorites.h
+END
+url.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/url.h
+END
+avicapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/avicapture.h
+END
+oggtheoracapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/oggtheoracapture.h
+END
+celx_celestia.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_celestia.h
+END
+configfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/configfile.h
+END
+celx_rotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_rotation.cpp
+END
+wglext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/wglext.cpp
+END
+celx_phase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_phase.cpp
+END
+wintime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/wintime.cpp
+END
+celx_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_vector.cpp
+END
+eclipsefinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/eclipsefinder.h
+END
+celx_gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_gl.h
+END
+celx_position.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_position.h
+END
+destination.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/destination.h
+END
+celx_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx_object.h
+END
+scriptmenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/scriptmenu.cpp
+END
+celx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celestia/celx.cpp
+END

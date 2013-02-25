@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/sta/!svn/ver/653/trunk/sta-src/Main
+END
+physicalproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/337/trunk/sta-src/Main/physicalproperties.h
+END
+initialstateeditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/311/trunk/sta-src/Main/initialstateeditor.cpp
+END
+timelineview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/534/trunk/sta-src/Main/timelineview.cpp
+END
+initialstateThreebodyEditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/397/trunk/sta-src/Main/initialstateThreebodyEditor.ui
+END
+scenarioview.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/300/trunk/sta-src/Main/scenarioview.h
+END
+about.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/sta/!svn/ver/645/trunk/sta-src/Main/about.ui
+END
+payloadproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/371/trunk/sta-src/Main/payloadproperties.cpp
+END
+exportdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/497/trunk/sta-src/Main/exportdialog.h
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/sta/!svn/ver/619/trunk/sta-src/Main/mainwindow.ui
+END
+initialstateThreebodyEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/sta/!svn/ver/397/trunk/sta-src/Main/initialstateThreebodyEditor.cpp
+END
+aerodynamicproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/410/trunk/sta-src/Main/aerodynamicproperties.cpp
+END
+sheetDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/300/trunk/sta-src/Main/sheetDelegate.h
+END
+celestiainterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/526/trunk/sta-src/Main/celestiainterface.cpp
+END
+propagatedscenario.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/584/trunk/sta-src/Main/propagatedscenario.h
+END
+about.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/sta/!svn/ver/602/trunk/sta-src/Main/about.h
+END
+timelinewidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/300/trunk/sta-src/Main/timelinewidget.h
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/sta/!svn/ver/621/trunk/sta-src/Main/mainwindow.h
+END
+scenarioelementbox.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/337/trunk/sta-src/Main/scenarioelementbox.ui
+END
+scenariotree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/606/trunk/sta-src/Main/scenariotree.cpp
+END
+physicalproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/371/trunk/sta-src/Main/physicalproperties.ui
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/sta/!svn/ver/647/trunk/sta-src/Main/main.cpp
+END
+physicalproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/371/trunk/sta-src/Main/physicalproperties.cpp
+END
+scenarioelementbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/337/trunk/sta-src/Main/scenarioelementbox.h
+END
+propulsionproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/337/trunk/sta-src/Main/propulsionproperties.h
+END
+exportdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/497/trunk/sta-src/Main/exportdialog.ui
+END
+scenarioview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/389/trunk/sta-src/Main/scenarioview.cpp
+END
+scenarioobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/387/trunk/sta-src/Main/scenarioobject.h
+END
+payloadproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/371/trunk/sta-src/Main/payloadproperties.ui
+END
+exportdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/497/trunk/sta-src/Main/exportdialog.cpp
+END
+aerodynamicproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/410/trunk/sta-src/Main/aerodynamicproperties.ui
+END
+initialstateeditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/sta-src/Main/initialstateeditor.h
+END
+timelineview.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/496/trunk/sta-src/Main/timelineview.h
+END
+propagatedscenario.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/584/trunk/sta-src/Main/propagatedscenario.cpp
+END
+about.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/sta/!svn/ver/602/trunk/sta-src/Main/about.cpp
+END
+timelinewidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/sta-src/Main/timelinewidget.cpp
+END
+payloadproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/371/trunk/sta-src/Main/payloadproperties.h
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/653/trunk/sta-src/Main/mainwindow.cpp
+END
+initialstateThreebodyEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/397/trunk/sta-src/Main/initialstateThreebodyEditor.h
+END
+aerodynamicproperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/410/trunk/sta-src/Main/aerodynamicproperties.h
+END
+treeItemDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/sta-src/Main/treeItemDelegate.h
+END
+celestiainterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/sta-src/Main/celestiainterface.h
+END
+propulsionproperties.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/371/trunk/sta-src/Main/propulsionproperties.ui
+END
+scenarioelementbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/652/trunk/sta-src/Main/scenarioelementbox.cpp
+END
+propulsionproperties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/371/trunk/sta-src/Main/propulsionproperties.cpp
+END
+scenariotree.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/508/trunk/sta-src/Main/scenariotree.h
+END
+scenarioview.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/sta/!svn/ver/389/trunk/sta-src/Main/scenarioview.ui
+END
+scenarioobject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/420/trunk/sta-src/Main/scenarioobject.cpp
+END
+initialstateeditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/363/trunk/sta-src/Main/initialstateeditor.ui
+END

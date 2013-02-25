@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/sta/!svn/ver/368/trunk/Eigen/src/Array
+END
+CwiseOperators.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Array/CwiseOperators.h
+END
+Norms.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Array/Norms.h
+END
+Select.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Array/Select.h
+END
+Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/sta/!svn/ver/368/trunk/Eigen/src/Array/Random.h
+END
+Functors.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Array/Functors.h
+END
+PartialRedux.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/368/trunk/Eigen/src/Array/PartialRedux.h
+END
+BooleanRedux.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Array/BooleanRedux.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/309/trunk/Eigen/src/Array/CMakeLists.txt
+END

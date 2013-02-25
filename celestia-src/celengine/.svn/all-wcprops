@@ -1,0 +1,1169 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/sta/!svn/ver/636/trunk/celestia-src/celengine
+END
+trajmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/trajmanager.h
+END
+execution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/execution.cpp
+END
+spheremesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/spheremesh.cpp
+END
+scriptorbit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/scriptorbit.cpp
+END
+vsop87.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/vsop87.cpp
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/console.h
+END
+virtualtex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/virtualtex.cpp
+END
+opencluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/opencluster.h
+END
+location.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/location.cpp
+END
+spiceorbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/spiceorbit.h
+END
+glcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/glcontext.h
+END
+stardb.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/stardb.h
+END
+lightenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/lightenv.h
+END
+marker.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/marker.h
+END
+trajmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/trajmanager.cpp
+END
+parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/parser.cpp
+END
+mesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/mesh.cpp
+END
+timelinephase.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/timelinephase.h
+END
+rendcontext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/rendcontext.cpp
+END
+body.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/body.cpp
+END
+glshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/446/trunk/celestia-src/celengine/glshader.h
+END
+rotationmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/rotationmanager.h
+END
+customrotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/customrotation.h
+END
+texmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/texmanager.h
+END
+texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/texture.cpp
+END
+execenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/execenv.h
+END
+opencluster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/opencluster.cpp
+END
+spiceorbit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/spiceorbit.cpp
+END
+deepskyobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/deepskyobj.h
+END
+vecgl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/vecgl.h
+END
+nebula.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/nebula.cpp
+END
+glcontext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/glcontext.cpp
+END
+vertexprog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/vertexprog.h
+END
+vsop87.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/vsop87.h
+END
+globular.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/globular.h
+END
+stardb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/stardb.cpp
+END
+multitexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/multitexture.h
+END
+samporient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/samporient.cpp
+END
+overlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/634/trunk/celestia-src/celengine/overlay.h
+END
+timelinephase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/timelinephase.cpp
+END
+CGBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/CGBuffer.h
+END
+spiceinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/spiceinterface.h
+END
+selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/selection.h
+END
+texmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/texmanager.cpp
+END
+asterism.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/asterism.h
+END
+deepskyobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/deepskyobj.cpp
+END
+scriptobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/scriptobject.h
+END
+samporbit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/490/trunk/celestia-src/celengine/samporbit.cpp
+END
+boundaries.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/boundaries.h
+END
+starcolors.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/starcolors.h
+END
+renderglsl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/renderglsl.cpp
+END
+parseobject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/parseobject.cpp
+END
+dispmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/dispmap.h
+END
+universe.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/universe.h
+END
+shadermanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/shadermanager.h
+END
+visibleregion.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/visibleregion.h
+END
+globular.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/globular.cpp
+END
+regcombine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/regcombine.cpp
+END
+nebula.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/nebula.h
+END
+multitexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/multitexture.cpp
+END
+particlesystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/particlesystem.h
+END
+univcoord.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/univcoord.h
+END
+simulation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/simulation.cpp
+END
+solarsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/solarsys.h
+END
+orbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/477/trunk/celestia-src/celengine/orbit.h
+END
+name.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/name.h
+END
+cmdparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/cmdparser.h
+END
+dsoname.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/dsoname.cpp
+END
+asterism.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/asterism.cpp
+END
+planetgrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/planetgrid.cpp
+END
+scriptobject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/scriptobject.cpp
+END
+boundaries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/boundaries.cpp
+END
+starcolors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/starcolors.cpp
+END
+lodspheremesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/lodspheremesh.cpp
+END
+rotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/rotation.h
+END
+model.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/model.h
+END
+3dsmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/3dsmesh.cpp
+END
+star.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/463/trunk/celestia-src/celengine/star.cpp
+END
+frametree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/frametree.cpp
+END
+particlesystemfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/446/trunk/celestia-src/celengine/particlesystemfile.h
+END
+starbrowser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/starbrowser.cpp
+END
+constellation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/constellation.cpp
+END
+regcombine.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/regcombine.h
+END
+orbit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/477/trunk/celestia-src/celengine/orbit.cpp
+END
+solarsys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/solarsys.cpp
+END
+skygrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/skygrid.h
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/image.cpp
+END
+jpleph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/jpleph.cpp
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/477/trunk/celestia-src/celengine/render.h
+END
+axisarrow.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/axisarrow.h
+END
+dsoname.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/dsoname.h
+END
+dsooctree.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/dsooctree.h
+END
+rotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/rotation.cpp
+END
+fragmentprog.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/fragmentprog.h
+END
+nutation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/nutation.cpp
+END
+stellarclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/stellarclass.h
+END
+rendcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/rendcontext.h
+END
+body.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/body.h
+END
+modelfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/modelfile.h
+END
+solarsysxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/solarsysxml.h
+END
+lodspheremesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/lodspheremesh.h
+END
+vertexlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/vertexlist.cpp
+END
+3dsmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/3dsmesh.h
+END
+render.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/479/trunk/celestia-src/celengine/render.cpp
+END
+axisarrow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/axisarrow.cpp
+END
+frametree.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/frametree.h
+END
+constellation.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/constellation.h
+END
+spiceinterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/spiceinterface.cpp
+END
+galaxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/galaxy.cpp
+END
+samporient.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/samporient.h
+END
+dsooctree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/dsooctree.cpp
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/image.h
+END
+jpleph.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/jpleph.h
+END
+spicerotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/spicerotation.h
+END
+scriptrotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/scriptrotation.h
+END
+frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/frame.cpp
+END
+fragmentprog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/636/trunk/celestia-src/celengine/fragmentprog.cpp
+END
+observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/observer.h
+END
+astro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/astro.h
+END
+universe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/universe.cpp
+END
+catalogxref.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/catalogxref.h
+END
+renderglsl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/renderglsl.h
+END
+parseobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/parseobject.h
+END
+timeline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/timeline.cpp
+END
+particlesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/particlesystem.cpp
+END
+univcoord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/univcoord.cpp
+END
+scriptorbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/scriptorbit.h
+END
+precession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/precession.cpp
+END
+dds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/dds.cpp
+END
+starname.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/starname.cpp
+END
+atmosphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/atmosphere.h
+END
+location.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/location.h
+END
+cmdparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/cmdparser.cpp
+END
+marker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/marker.cpp
+END
+spicerotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/spicerotation.cpp
+END
+observer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/observer.cpp
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/glext.h
+END
+glshader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/446/trunk/celestia-src/celengine/glshader.cpp
+END
+surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/surface.h
+END
+planetgrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/planetgrid.h
+END
+celestia.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/celestia.h
+END
+catalogxref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/catalogxref.cpp
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/frame.h
+END
+renderinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/renderinfo.h
+END
+model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/model.cpp
+END
+dsodb.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/dsodb.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/parser.h
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/446/trunk/celestia-src/celengine/mesh.h
+END
+texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/texture.h
+END
+vertexprog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/363/trunk/celestia-src/celengine/vertexprog.cpp
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/gl.h
+END
+particlesystemfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/particlesystemfile.cpp
+END
+customorbit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/customorbit.cpp
+END
+tokenizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/tokenizer.cpp
+END
+timeline.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/timeline.h
+END
+skygrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/skygrid.cpp
+END
+referencemark.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/referencemark.h
+END
+command.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/command.cpp
+END
+star.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/star.h
+END
+precession.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/precession.h
+END
+starname.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/starname.h
+END
+staroctree.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/staroctree.h
+END
+overlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/overlay.cpp
+END
+starbrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/starbrowser.h
+END
+glext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/glext.cpp
+END
+selection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/selection.cpp
+END
+octree.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/octree.h
+END
+dsodb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/dsodb.cpp
+END
+meshmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/meshmanager.h
+END
+stellarclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/stellarclass.cpp
+END
+dispmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/dispmap.cpp
+END
+modelfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/modelfile.cpp
+END
+solarsysxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/solarsysxml.cpp
+END
+shadermanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/shadermanager.cpp
+END
+visibleregion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/visibleregion.cpp
+END
+console.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/console.cpp
+END
+samporbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/samporbit.h
+END
+nutation.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/nutation.h
+END
+execution.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/execution.h
+END
+spheremesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/spheremesh.h
+END
+staroctree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/staroctree.cpp
+END
+virtualtex.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/virtualtex.h
+END
+vertexlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/vertexlist.h
+END
+customorbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/customorbit.h
+END
+tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/tokenizer.h
+END
+vertexbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/vertexbuf.h
+END
+command.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/command.h
+END
+scriptrotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/scriptrotation.cpp
+END
+meshmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/meshmanager.cpp
+END
+astro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/astro.cpp
+END
+simulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/simulation.h
+END
+rotationmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/celengine/rotationmanager.cpp
+END
+customrotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/customrotation.cpp
+END
+galaxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/457/trunk/celestia-src/celengine/galaxy.h
+END

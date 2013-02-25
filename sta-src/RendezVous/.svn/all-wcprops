@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/sta/!svn/ver/644/trunk/sta-src/RendezVous
+END
+RVDParameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/RVDParameters.cpp
+END
+rendezvous.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/sta/!svn/ver/500/trunk/sta-src/RendezVous/rendezvous.ui
+END
+rendezvousdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/rendezvousdialog.ui
+END
+RendezvousCalculation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/RendezvousCalculation.cpp
+END
+ClohessyWiltshire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/ClohessyWiltshire.cpp
+END
+Manoeuvres.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/Manoeuvres.cpp
+END
+RVDParameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/RVDParameters.h
+END
+rendezvous.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/sta/!svn/ver/644/trunk/sta-src/RendezVous/rendezvous.cpp
+END
+PlanetParameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/PlanetParameters.cpp
+END
+RendezvousCalculation.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/RendezvousCalculation.h
+END
+ClohessyWiltshire.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/ClohessyWiltshire.h
+END
+Manoeuvres.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/Manoeuvres.h
+END
+rendezvous.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/sta/!svn/ver/500/trunk/sta-src/RendezVous/rendezvous.h
+END
+PlanetParameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/300/trunk/sta-src/RendezVous/PlanetParameters.h
+END

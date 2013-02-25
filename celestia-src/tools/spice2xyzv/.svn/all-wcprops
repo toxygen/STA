@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/spice2xyzv
+END
+cassini-cruise.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/spice2xyzv/cassini-cruise.cfg
+END
+huygens.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/spice2xyzv/huygens.cfg
+END
+cassini-orbit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/spice2xyzv/cassini-orbit.cfg
+END
+makefile.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/spice2xyzv/makefile.mak
+END
+naif0008.tls
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/spice2xyzv/naif0008.tls
+END
+spice2xyzv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/spice2xyzv/spice2xyzv.cpp
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/300/trunk/celestia-src/tools/spice2xyzv/readme.txt
+END

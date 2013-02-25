@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/sta/!svn/ver/590/trunk/thirdparty/qwtplot3d/src
+END
+qwt3d_movements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_movements.cpp
+END
+qwt3d_io_gl2ps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_io_gl2ps.cpp
+END
+qwt3d_color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_color.cpp
+END
+qwt3d_plot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_plot.cpp
+END
+qwt3d_label.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_label.cpp
+END
+qwt3d_drawable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_drawable.cpp
+END
+qwt3d_gridplot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_gridplot.cpp
+END
+qwt3d_function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/590/trunk/thirdparty/qwtplot3d/src/qwt3d_function.cpp
+END
+qwt3d_dataviews.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_dataviews.cpp
+END
+qwt3d_scale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_scale.cpp
+END
+qwt3d_surfaceplot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_surfaceplot.cpp
+END
+qwt3d_io_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_io_reader.cpp
+END
+qwt3d_meshplot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_meshplot.cpp
+END
+qwt3d_colorlegend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_colorlegend.cpp
+END
+qwt3d_parametricsurface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_parametricsurface.cpp
+END
+qwt3d_gridmapping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_gridmapping.cpp
+END
+qwt3d_autoscaler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_autoscaler.cpp
+END
+qwt3d_axis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_axis.cpp
+END
+qwt3d_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_types.cpp
+END
+qwt3d_lighting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_lighting.cpp
+END
+qwt3d_coordsys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/sta/!svn/ver/565/trunk/thirdparty/qwtplot3d/src/qwt3d_coordsys.cpp
+END
+qwt3d_enrichment_std.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_enrichment_std.cpp
+END
+qwt3d_io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_io.cpp
+END
+qwt3d_mousekeyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/sta/!svn/ver/536/trunk/thirdparty/qwtplot3d/src/qwt3d_mousekeyboard.cpp
+END
